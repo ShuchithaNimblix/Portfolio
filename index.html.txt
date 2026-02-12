@@ -1,0 +1,57 @@
+My Portfolio
+
+Your Name
+
+About Skills Projects Contact
+
+Hi, I'm Your Name 👋
+
+Aspiring Software Developer | Java | Web Development
+
+About Me
+
+I am a passionate developer with a background in Computer Science. I
+enjoy building web applications, solving problems, and learning new
+technologies.
+
+Skills
+
+Java
+
+Spring Boot
+
+HTML
+
+CSS
+
+JavaScript
+
+SQL
+
+Git
+
+REST APIs
+
+Projects
+
+Project Title 1
+
+Short description of your project and what it does.
+
+View Project
+
+Project Title 2
+
+Short description of your project and what it does.
+
+View Project
+
+Contact Me
+
+Email: your.email@example.com
+
+LinkedIn: linkedin.com/in/yourprofile
+
+GitHub: github.com/yourusername
+
+© 2026 Your Name. All rights reserved.
