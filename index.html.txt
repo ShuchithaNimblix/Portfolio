@@ -1,17 +1,18 @@
 My Portfolio
 
-Your Name
+Shuchitha H
 
-About Skills Projects Contact
+Java Full Stack Developer
+Motivated Java Full Stack Developer eager to contribute to backend and full-stack development using modern Java technologies.
 
-Hi, I'm Your Name 👋
+Hi, I'm Shuchitha H👋
 
 Aspiring Software Developer | Java | Web Development
 
 About Me
 
 I am a passionate developer with a background in Computer Science. I
-enjoy building web applications, solving problems, and learning new
+enjoy solving problems, and learning new
 technologies.
 
 Skills
@@ -32,25 +33,11 @@ Git
 
 REST APIs
 
-Projects
+Contact Me  
 
-Project Title 1
+Email: shuchithanimblix@example.com
 
-Short description of your project and what it does.
-
-View Project
-
-Project Title 2
-
-Short description of your project and what it does.
-
-View Project
-
-Contact Me
-
-Email: your.email@example.com
-
-LinkedIn: linkedin.com/in/yourprofile
+LinkedIn: https://teams.live.com/l/message/19:uni01_fonqn3fhkcjzuetacertnnpvsodvhgod4rysqza5jv6ecwx6onaq@thread.v2/1770895544786?context=%7B%22contextType%22%3A%22chat%22%7D
 
 GitHub: github.com/yourusername
 
